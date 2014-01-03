@@ -12,6 +12,7 @@ templates, plugins or snippets of code I used to aid me in making my site.</p>
 <li>/js/jquery.viewport.min.js - To help with the nav scrolling</li>
 <li>/js/respond.min.js - Enables responsive design for older browsers</li>
 <li>/js/responsiveslides.min.js - Lightweight, responsive slider</li>
+</ul>
 
 <p>The rest of the content was coded by myself.</p>
 
