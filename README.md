@@ -7,7 +7,7 @@ giuseppecastiglione.co.uk
 <p>I believe in not reinventing the wheel, so the following list contains either
 templates, plugins or snippets of code I used to aid me in making my site.</p>
 <ul>
-<li>/process.php
+<li>/process.php - Code to send my contact form.
 <li>/js/css3-mediaqueries.js - To enable media queries in older browsers</li>
 <li>/js/jquery.viewport.min.js - To help with the nav scrolling</li>
 <li>/js/respond.min.js - Enables responsive design for older browsers</li>
