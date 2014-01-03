@@ -63,7 +63,7 @@ if( isset($_POST) ){
 					  <p><strong>Message: </strong> {$message} </p>
 					  <p>This message was sent from the IP Address: {$ipaddress} on {$date} at {$time}</p>";
 		
-		mail("zeppyuk@gmail.com","New Enquiry",$emailbody,$headers);
+		mail("info@giuseppecastiglione.co.uk","New Enquiry",$emailbody,$headers);
 		
 	}
 	
