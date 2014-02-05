@@ -15,4 +15,4 @@ templates, plugins or snippets of code I used to aid me in making my site.</p>
 
 <p>The rest of the content was coded by myself.</p>
 
-<p>If I weren't already working on a new layout for this site I would improve this site by optimizing my style.scss to a more object oriented method of coding. I would also change the way that my work examples are displayed.</p>
+<p>If I wasn't already working on a new layout for this site I would improve this site by optimizing my style.scss to a more object oriented method of coding. I would also change the way that my work examples are displayed.</p>
