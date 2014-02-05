@@ -2,7 +2,6 @@ giuseppecastiglione.co.uk
 =========================
 
 <p>These are the files for my personal website.</p>
-<p>During this project I discovered that the toughtest client is myself. </p>
 
 <p>I believe in not reinventing the wheel, so the following list contains either
 templates, plugins or snippets of code I used to aid me in making my site.</p>
